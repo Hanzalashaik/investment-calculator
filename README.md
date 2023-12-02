@@ -19,7 +19,7 @@ To run this Project Management Web App locally, follow these steps:
 
 ```bash
 git clone git@github.com:Hanzalashaik/investment-calculator.git
-cd quiz-app
+cd investment-calculator
 npm install
 ```
 ```bash
