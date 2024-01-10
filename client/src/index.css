@@ -87,3 +87,19 @@ body {
 .center {
   text-align: center;
 }
+
+/* Media Query for Mobile Devices */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px; 
+  }
+
+  #user-input {
+    max-width: 90%;
+  }
+
+  #result {
+    max-width: 90%;
+    font-size: 0.75rem; 
+  }
+}
